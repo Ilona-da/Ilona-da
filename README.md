@@ -4,7 +4,7 @@
 <br>My focus is on turning raw data into actionable insights that are clear, usable, and informative. 
 <br>What I enjoy most is finding the best way to show what truly matters.
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
