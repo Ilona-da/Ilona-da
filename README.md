@@ -19,6 +19,7 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ---
 
+## Featured Projects:
 
 <table>
   <tr>
@@ -46,7 +47,7 @@
     </td>
     <td>
       <a href="https://github.com/Ilona-da/Hotel_Booking_Cancellations_Analysis"><strong>Hotel Booking Cancellations Analysis</strong></a><br>
-      Analyzed 36k+ hotel bookings to understand why guests cancel reservations and how to reduce cancellation rates.
+      Why do guests cancel their hotel bookings? This analysis explores cancellation patterns and guest behavior between Jul 2015 and Dec 2016 to uncover key drivers and propose actionable solutions.
       <br><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black"/>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
