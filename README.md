@@ -1,6 +1,6 @@
 # Hi, I'm Ilona 👋 
-**Junior Data Analyst **|** SQL • Power BI • Excel** <br>
-<br>**Welcome to my GitHub!** <br>Here below you'll find a selection of my data projects - SQL analyses, interactive dashboards and visual storytelling experiments. 
+**Junior Data Analyst | SQL • Power BI • Excel** <br>
+<br>**Welcome to my GitHub!** <br>Below you'll find a selection of my data projects - SQL analyses, interactive dashboards, and visual storytelling experiments. 
 <br>My focus is on turning raw data into actionable insights that are clear, usable, and informative. 
 <br>What I enjoy most is finding the best way to show what truly matters.
 
@@ -30,7 +30,9 @@
     </td>
     <td>
       <a href="https://github.com/Ilona-da/Analiza_sprzedazy_e-commerce_2025"><strong>E-commerce Sales Analysis 2025</strong></a><br>
-      Explored 186k+ online store transactions (2024–2025) to uncover trends, seasonality, and fulfillment efficiency. Focused on actionable insights for business decisions.
+      Explored 186k+ online store transactions (2024–2025) to uncover trends, seasonality, and fulfillment efficiency. 
+      Focused on extracting actionable insights to support business decisions.<br><br>
+      You'll also find a link to the live report and a full project walkthrough.
       <br><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black"/> 
       <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
@@ -47,7 +49,7 @@
     </td>
     <td>
       <a href="https://github.com/Ilona-da/Hotel_Booking_Cancellations_Analysis"><strong>Hotel Booking Cancellations Analysis</strong></a><br>
-      Why do guests cancel their hotel bookings? This analysis explores cancellation patterns and guest behavior between Jul 2015 and Dec 2016 to uncover key drivers and propose actionable solutions.
+      Why do guests cancel their hotel bookings? This analysis explores cancellation patterns and guest behavior between Jul 2015 and Dec 2016 to uncover key drivers and propose actionable solutions. <br><br>Includes SQL queries for data cleaning, transformation, and exploration, plus a link to the live report.
       <br><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black"/>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
@@ -65,8 +67,9 @@
     </td>
     <td>
       <a href="https://github.com/Ilona-da/Children_in_Crisis_Dashboard_NGO"><strong>Children in Crisis Dashboard (NGO)</strong></a><br>
-      A small but meaningful project done with Excel and Tableau that combines public interest data, storytelling, and fast learning on the fly.
+      A small but meaningful project built with Excel and Tableau that combines public interest data, storytelling, and fast learning on the fly.
       Final dashboard is used in volunteer trainings, awareness campaigns, and social media, helping people understand the scale of this quiet crisis.
+      <br><br>A live infographic link is available here as well.
       <br><br>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
@@ -84,6 +87,7 @@
     <td>
       <a href="https://github.com/Ilona-da/Name_Trends_Analysis"><strong>Name Trends Analysis (US, 30 Years)</strong></a><br>
       Interactive exploration of nearly 30 years of U.S. baby names - trends, patterns, outliers, and fun discoveries.
+      <br><br>The repository includes SQL queries and a link to the live report.
       <br><br>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black"/>
