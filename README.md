@@ -77,22 +77,6 @@
   </tr>
 
   <tr><td colspan="2">&nbsp;</td></tr>
-
-  <tr>
-    <td width="30%">
-      <a href="https://github.com/Ilona-da/Name_Trends_Analysis">
-        <img src="https://drive.google.com/uc?export=view&id=1Q4zKjOgPomV6E3Jlri6VcAUBZnz-HqqF" alt="Name Trends Dashboard"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Ilona-da/Name_Trends_Analysis"><strong>Name Trends Analysis (US, 30 Years)</strong></a><br>
-      Interactive exploration of nearly 30 years of U.S. baby names - trends, patterns, outliers, and fun discoveries.
-      <br><br>The repository includes SQL queries and a link to the live report.
-      <br><br>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black"/>
-    </td>
-  </tr>
 </table>
 
 
