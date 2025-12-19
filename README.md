@@ -1,5 +1,5 @@
 # Hi, I'm Ilona 👋 
-**Junior Data Analyst | SQL • Power BI • Excel** <br>
+**Junior Data Analyst | Excel • SQL • Power BI** <br>
 <br>**Welcome to my GitHub!** <br>Below you'll find a selection of my data projects - SQL analyses, interactive dashboards, and visual storytelling experiments. 
 <br>My focus is on turning raw data into actionable insights that are clear, usable, and informative. 
 <br>What I enjoy most is finding the best way to show what truly matters.
@@ -39,7 +39,7 @@
     </td>
   </tr>
 
-  <tr><td colspan="2">&nbsp;</td></tr> <!-- odstęp między wierszami -->
+  <tr><td colspan="2">&nbsp;</td></tr>
 
   <tr>
     <td width="30%">
